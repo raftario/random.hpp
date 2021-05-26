@@ -1,0 +1,8 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 4
+---
+Language: Cpp
+Standard: c++20
+DerivePointerAlignment: false
+PointerAlignment: Left
